@@ -4,6 +4,7 @@ Nacio en Panama tiene 25 y vivo en internet.
 
 Hoy hablaremos de su historia.
 
+<<<<<<< HEAD
 Tiene que enfocarse
 
 Hoy es el mejor tipo dle mundo
@@ -13,3 +14,6 @@ Eres un cojonudo
 Practica arduamente
 
 Ahora si joden
+=======
+cambio de historia
+>>>>>>> cabecera
